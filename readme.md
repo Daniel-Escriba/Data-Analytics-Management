@@ -1,7 +1,7 @@
 # Laboratorios de Gestion de analisis de datos
 
 - Ver. Python 3.13.x
-- Requirement.txt disponible
+- Requirement.txt
 - Librerias nuevas seran instaladas por lab
 - Os: W11  & Linux-Manjaro
 
@@ -30,3 +30,8 @@ Instalar las dependencias (Solo la primera vez)
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+## Resumen
+
