@@ -10,14 +10,20 @@
 1:
 
 ``` bash
- python -m venv gad-env
+python -m venv venv
+```
+
+or
+
+``` bash
+python3 -m venv venv
 ```
 
 2:
 
 ``` bash
 # Linux
-source gad-env/bin/activate
+source .venv/bin/activate
 
 #W11
 gad-env\Scripts\activate

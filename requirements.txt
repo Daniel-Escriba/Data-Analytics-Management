@@ -1,4 +1,9 @@
-ipykernel == 6.29.5
-notebook == 7.3.3
+ipykernel 
+notebook
 numpy
 pandas
+ucimlrepo 
+matplotlib
+seaborn
+scikit-learn
+scipy
